@@ -4,6 +4,8 @@ channels:
   - pytorch-nightly
   - conda-forge
 dependencies:
+  - jupyterlab
+  - numpy # required by environment
   - pip
   - pip:
       - kaggle-environments
