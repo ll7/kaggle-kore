@@ -1,0 +1,11 @@
+# environment defintion file for Kore
+name: Kore
+channels:
+  - pytorch-nightly
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - numpy # required by environment
+  - pip
+  - pip:
+      - kaggle-environments
