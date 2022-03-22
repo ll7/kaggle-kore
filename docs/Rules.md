@@ -1,4 +1,4 @@
-# Rules
+# Rules for the core competition
 
 https://www.kaggle.com/c/kore-2022-beta/overview/kore-rules
 
