@@ -1,6 +1,16 @@
 # List of helpful references for the Kore competition
 
+## Kore 2022 beta
+
 https://www.kaggle.com/c/kore-2022-beta/
+
+Whoever has the largest kore cache by the end of 400 turns—or eliminates all of their opponents from the board before that—will be the winner!
+
+### Rules
+
+[[docs/Rules.md]]
+
+
 
 # Notebooks
 
